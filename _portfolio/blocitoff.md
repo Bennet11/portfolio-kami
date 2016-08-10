@@ -2,7 +2,7 @@
 layout: post
 title: Blocitoff
 thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+short-description: Blocitoff is a to-do list application where users can add to-do items which they can later mark as done. The said to-do items expires after a week.
 
 ---
 

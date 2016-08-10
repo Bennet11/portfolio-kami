@@ -1,13 +1,13 @@
 ---
 layout: post
-title: BlocFlix
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+title: Bloccit
+thumbnail-path: "img/blocipedia.png"
+short-description: Bloccit is a reddit replica where users can create topics and its posts. Users can also leave a comment on each topic as well as the ability to upvote or downvote a comment to their own liking.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/blocipedia.png)
 
 ## Explanation
 

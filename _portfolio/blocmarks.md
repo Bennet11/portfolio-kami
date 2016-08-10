@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Blocipedia is a wikipedia replica where users can create wikis with their corresponding collaborators.
+title: Blocmarks
+thumbnail-path: "img/blocitoff.png"
+short-description: Blocmarks is an application that allows a user to bookmarks URLs via email, peruse other user's bookmarks and maintain a personal index of categorized bookmarks.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/blocitoff.png)
 
 ## Explanation
 

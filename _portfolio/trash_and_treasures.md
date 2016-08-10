@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Blocipedia is a wikipedia replica where users can create wikis with their corresponding collaborators.
+title: Trash and Treasures
+thumbnail-path: "img/blocflix.png"
+short-description: Trash and Treasures is an online selling website of second-hand items.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocipedia.png)
+![]({{ site.baseurl }}/img/blocflix.png)
 
 ## Explanation
 
